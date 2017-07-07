@@ -1,0 +1,24 @@
+{
+  "name": "vue-ssr-demo",
+  "version": "1.0.0",
+  "description": "Server side render",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watson-yan/vue-ssr-demo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watson-yan/vue-ssr-demo/issues"
+  },
+  "homepage": "https://github.com/watson-yan/vue-ssr-demo#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "vue": "^2.3.4",
+    "vue-server-renderer": "^2.3.4"
+  }
+}
